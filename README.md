@@ -59,53 +59,47 @@ Cuento con una sólida base en el desarrollo de aplicaciones complejas, integran
 
 ### 🚀 Proyectos Destacados
 
-#### 🏥 [Aplicación Móvil Hospital Parc Taulí](https://github.com/reynaldoovr/Aplicacion-Movil-Hospital-Tauli)
-> *Flutter, SpringBoot*
+#### Aplicación Móvil Hospital Parc Taulí
+> *Java, Flutter, PostgreSQL, SpringBoot*
 
-Desarrollo de una aplicación móvil para tabletas diseñada para digitalizar la gestión de urgencias pediátricas.
-* **Funcionalidad:** Reemplaza registros manuales con protocolos interactivos, cálculos de dosis automatizados y alertas en tiempo real.
-* **Impacto:** Optimiza la coordinación del equipo médico y reduce significativamente el riesgo de errores humanos en intervenciones críticas.
+Desarrollo de una aplicación móvil para tabletas diseñada para digitalizar la gestión de urgencias pediátricas. Reemplaza registros manuales con protocolos interactivos, cálculos de dosis automatizados y alertas en tiempo real. El sistema optimiza la coordinación del equipo médico y reduce significativamente el riesgo de errores humanos en intervenciones críticas.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/Aplicacion-Movil-Hospital-Tauli)
 
-#### 🎙️ [Phantom Edit](https://github.com/reynaldoovr/Phantom-Edit)
-> *Google Cloud (Speech-to-Text, Natural Language, Vision), IA Generativa*
+#### Phantom Edit
+> *PHP, CSS, JavaScript, Google Cloud (Speech-to-text, Vertex AI, Storage, Auth)*
 
-Aplicación de edición de imágenes operada mediante voz y texto que utiliza servicios de Google Cloud.
-* **IA & Cloud:** Combina procesamiento tradicional con IA Generativa y Cloud Vision.
-* **Capacidades:** Interpreta comandos de usuario para realizar tareas complejas como detección, eliminación y relleno inteligente de objetos.
+Aplicación de edición de imágenes operada mediante voz y texto que utiliza servicios de Google Cloud para interpretar comandos de usuario. El sistema combina el procesamiento tradicional para ajustes básicos con IA Generativa y Cloud Vision para realizar tareas complejas como la detección, eliminación y relleno inteligente de objetos.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/Phantom-Edit)
 
-#### ☁️ [ACS (Sistema de Control de Acceso)](https://github.com/reynaldoovr/ACS)
-> *API REST, Patrones de Diseño, Cloud*
+#### ACS (Sistema de Control de Acceso)
+> *Java, Flutter, API Rest, Patrones de Diseño*
 
-Diseño e implementación de un prototipo de Sistema de Control de Acceso basado en la nube.
-* **Arquitectura:** Gestiona credenciales móviles y permisos de seguridad a través de una API REST.
-* **Ingeniería:** Aplica principios avanzados de diseño orientado a objetos y patrones de software para simular la unidad de control y permitir la administración remota.
+Diseño e implementación de un prototipo de Sistema de Control de Acceso que gestiona credenciales móviles y permisos de seguridad a través de una API REST. El proyecto aplica principios avanzados de diseño orientado a objetos y patrones de software para simular la unidad de control y permitir la administración remota de accesos.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/ACS)
 
-#### 🛒 [Open Cart - Suite de Pruebas](https://github.com/reynaldoovr/Open-Cart)
+#### Open Cart
 > *Java, Selenium WebDriver, Cucumber (BDD)*
 
-Implementación de una suite de pruebas automatizadas para una tienda de electrodomésticos online.
-* **QA Automation:** Uso de metodología BDD con Gherkin y Cucumber.
-* **Validación:** Diseño de escenarios de prueba reutilizables para validar flujos críticos como registro de usuarios y procesos de compra.
+Implementación de una suite de pruebas automatizadas para una tienda de electrodomésticos online utilizando Selenium WebDriver y Java. Se aplicó la metodología BDD con Gherkin y Cucumber, diseñando escenarios de prueba reutilizables para validar flujos críticos como el registro de usuarios y el proceso de compra.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/Open-Cart)
 
-#### 🕹️ [Pong Game](https://github.com/reynaldoovr/Pong-Game)
-> *MVC, TDD, CI/CD (GitHub Actions)*
+#### Pong Game
+> *Java, MVC, TDD, CI/CD (GitHub Actions)*
 
-Desarrollo desde cero del clásico juego Pong con un enfoque riguroso en ingeniería de software.
-* **Calidad:** Arquitectura MVC y metodología TDD (Test Driven Development).
-* **DevOps:** Integración de pipelines de CI/CD mediante GitHub Actions para la ejecución automatizada de pruebas (unitarias, caja blanca y caja negra).
+Desarrollo desde cero del clásico juego Pong utilizando arquitectura MVC, con un enfoque riguroso en metodologías de calidad de software como TDD. El proyecto integra pipelines de CI/CD mediante GitHub Actions para la ejecución automatizada de pruebas unitarias, caja blanca y caja negra.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/Pong-Game)
 
-#### 🛍️ [Double R Shop](https://github.com/reynaldoovr/Double-R-Shop)
+#### Double R Shop
 > *PHP, JavaScript, SQL, MVC*
 
-Implementación de una tienda online bajo arquitectura MVC.
-* **Backend:** Desarrollo de carrito de compra dinámico, persistencia mediante cookies y gestión de sesiones de usuario.
-* **Lógica:** Programación de la lógica completa para la simulación de compra y gestión de productos.
+Implementación de una tienda online bajo arquitectura MVC desarrollando un carrito de compra dinámico que asegura la persistencia de los productos mediante cookies. Incluye la gestión de sesiones de usuario y la lógica para la simulación de compra.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/Double-R-Shop)
 
-#### 💼 [CRM System](https://github.com/reynaldoovr/CRM)
-> *Gestión Empresarial*
+#### CRM
+> *Java, MySQL, JavaScript, JSP, CSS, Bootstrap*
 
-Implementación y despliegue de un sistema CRM integral.
-* **Objetivo:** Diseñado para centralizar la gestión de clientes y optimizar los flujos de trabajo comerciales y de marketing.
+Implementación y despliegue de un sistema CRM integral diseñado para centralizar la gestión de clientes y optimizar los flujos de trabajo comerciales y de marketing.
+<br>🔗 [Enlace](https://github.com/reynaldoovr/CRM)
 
 ---
 
