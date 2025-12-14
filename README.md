@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Sobre mí
 
-[cite_start]Soy **Ingeniero Informático** especializado en **Ingeniería de Software**[cite: 5]. Mi formación y experiencia me permiten ir más allá de la escritura de código, enfocándome en el diseño de arquitecturas robustas, la escalabilidad y la eficiencia en entornos críticos.
+Soy **Ingeniero Informático** especializado en **Ingeniería de Software**. Mi formación y experiencia me permiten ir más allá de la escritura de código, enfocándome en el diseño de arquitecturas robustas, la escalabilidad y la eficiencia en entornos críticos.
 
 Cuento con una sólida base en el desarrollo de aplicaciones complejas, integrando buenas prácticas de ingeniería para resolver desafíos tecnológicos y de negocio. Mi objetivo es aportar valor mediante soluciones técnicas bien fundamentadas y sostenibles a largo plazo.
 
@@ -26,62 +26,95 @@ Cuento con una sólida base en el desarrollo de aplicaciones complejas, integran
 ### 🛠 Tecnologías y Herramientas
 
 #### 💻 Lenguajes de Programación
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 #### 📚 Frameworks y Librerías
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🗄️ Bases de Datos
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Github%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-#### ⚙️ Metodologías
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=flat)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Testing](https://img.shields.io/badge/Unit_Testing-Junit-25A162?style=flat)
+#### ⚙️ Metodologías y Gestión
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-Methodology-brightgreen?style=for-the-badge)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-#### 🏥 [App Urgencias Pediátricas - Hospital Parc Taulí]([ENLACE-A-TU-REPOSITORIO])
-> *Flutter, Spring Boot, PostgreSQL*
+#### 🏥 [Aplicación Móvil Hospital Parc Taulí](https://github.com/reynaldoovr/Aplicacion-Movil-Hospital-Tauli)
+> *Flutter, SpringBoot*
 
-Ingeniería aplicada a la salud crítica. [cite_start]Sistema diseñado para optimizar la coordinación de equipos médicos en situaciones de urgencia[cite: 16, 18].
-* [cite_start]**Impacto:** Estandarización de protocolos de reanimación y automatización de cálculos de dosis, reemplazando métodos manuales propensos a errores[cite: 19].
-* [cite_start]**Ingeniería:** Validación funcional realizada mediante simulaciones en entorno virtual hospitalario con profesionales médicos[cite: 20].
+Desarrollo de una aplicación móvil para tabletas diseñada para digitalizar la gestión de urgencias pediátricas.
+* **Funcionalidad:** Reemplaza registros manuales con protocolos interactivos, cálculos de dosis automatizados y alertas en tiempo real.
+* **Impacto:** Optimiza la coordinación del equipo médico y reduce significativamente el riesgo de errores humanos en intervenciones críticas.
 
-#### 💼 [Plataforma de Gestión Empresarial (Quantum Economics)]([ENLACE-A-TU-REPOSITORIO-O-DEMO])
-> *Java, JSP, PostgreSQL, Zoho*
+#### 🎙️ [Phantom Edit](https://github.com/reynaldoovr/Phantom-Edit)
+> *Google Cloud (Speech-to-Text, Natural Language, Vision), IA Generativa*
 
-[cite_start]Desarrollo y modernización de una plataforma integral para la gestión contable y financiera[cite: 11].
-* [cite_start]**Reto:** Integración de sistemas complejos (Facturación, CRM, Inventarios) asegurando la consistencia de datos[cite: 12].
-* [cite_start]**Solución:** Actualización de la arquitectura UX/UI y automatización de procesos administrativos críticos[cite: 12, 13].
+Aplicación de edición de imágenes operada mediante voz y texto que utiliza servicios de Google Cloud.
+* **IA & Cloud:** Combina procesamiento tradicional con IA Generativa y Cloud Vision.
+* **Capacidades:** Interpreta comandos de usuario para realizar tareas complejas como detección, eliminación y relleno inteligente de objetos.
+
+#### ☁️ [ACS (Sistema de Control de Acceso)](https://github.com/reynaldoovr/ACS)
+> *API REST, Patrones de Diseño, Cloud*
+
+Diseño e implementación de un prototipo de Sistema de Control de Acceso basado en la nube.
+* **Arquitectura:** Gestiona credenciales móviles y permisos de seguridad a través de una API REST.
+* **Ingeniería:** Aplica principios avanzados de diseño orientado a objetos y patrones de software para simular la unidad de control y permitir la administración remota.
+
+#### 🛒 [Open Cart - Suite de Pruebas](https://github.com/reynaldoovr/Open-Cart)
+> *Java, Selenium WebDriver, Cucumber (BDD)*
+
+Implementación de una suite de pruebas automatizadas para una tienda de electrodomésticos online.
+* **QA Automation:** Uso de metodología BDD con Gherkin y Cucumber.
+* **Validación:** Diseño de escenarios de prueba reutilizables para validar flujos críticos como registro de usuarios y procesos de compra.
+
+#### 🕹️ [Pong Game](https://github.com/reynaldoovr/Pong-Game)
+> *MVC, TDD, CI/CD (GitHub Actions)*
+
+Desarrollo desde cero del clásico juego Pong con un enfoque riguroso en ingeniería de software.
+* **Calidad:** Arquitectura MVC y metodología TDD (Test Driven Development).
+* **DevOps:** Integración de pipelines de CI/CD mediante GitHub Actions para la ejecución automatizada de pruebas (unitarias, caja blanca y caja negra).
+
+#### 🛍️ [Double R Shop](https://github.com/reynaldoovr/Double-R-Shop)
+> *PHP, JavaScript, SQL, MVC*
+
+Implementación de una tienda online bajo arquitectura MVC.
+* **Backend:** Desarrollo de carrito de compra dinámico, persistencia mediante cookies y gestión de sesiones de usuario.
+* **Lógica:** Programación de la lógica completa para la simulación de compra y gestión de productos.
+
+#### 💼 [CRM System](https://github.com/reynaldoovr/CRM)
+> *Gestión Empresarial*
+
+Implementación y despliegue de un sistema CRM integral.
+* **Objetivo:** Diseñado para centralizar la gestión de clientes y optimizar los flujos de trabajo comerciales y de marketing.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reynaldoventocilla&show_icons=true&theme=city_lights&hide_border=true&count_private=true" alt="Reynaldo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reynaldoovr&show_icons=true&theme=city_lights&hide_border=true&count_private=true" alt="Reynaldo's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldoventocilla&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldoovr&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
