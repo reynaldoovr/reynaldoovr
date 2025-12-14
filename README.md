@@ -1,25 +1,13 @@
 <div align="center">
-  <h1 align="center">Hola, soy Reynaldo Ventocilla</h1>
+  <h1 align="center">Hola, soy Reynaldo Ventocilla 👋</h1>
   <h3 align="center">Ingeniero Informático | Ingeniero de Software</h3>
-  <p align="center">
-    Especializado en arquitecturas multicapa, sistemas escalables y soluciones de alto impacto.
-  </p>
-  
-  <a href="https://www.linkedin.com/in/reynaldoventocilla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:arilsonvr5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-Soy **Ingeniero Informático** especializado en **Ingeniería de Software**. Mi formación y experiencia me permiten ir más allá de la escritura de código, enfocándome en el diseño de arquitecturas robustas, la escalabilidad y la eficiencia en entornos críticos.
-
-Cuento con una sólida base en el desarrollo de aplicaciones complejas, integrando buenas prácticas de ingeniería para resolver desafíos tecnológicos y de negocio. Mi objetivo es aportar valor mediante soluciones técnicas bien fundamentadas y sostenibles a largo plazo.
+Ingeniero Informático especializado en Ingeniería de Software, experiencia en desarrollo full-stack y aplicaciones en tiempo real. Cuento con una sólida base en arquitecturas multicapa, sistemas escalables y metodologías ágiles. Apasionado por resolver desafíos técnicos complejos y crear soluciones robustas y eficientes que generen un impacto significativo.
 
 ---
 
@@ -33,11 +21,19 @@ Cuento con una sólida base en el desarrollo de aplicaciones complejas, integran
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-Java-orange?style=for-the-badge&logo=java&logoColor=white)
 
 #### 📚 Frameworks y Librerías
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Rest API](https://img.shields.io/badge/REST%20API-Architecture-005571?style=for-the-badge)
+
+#### ✅ QA & Testing
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-Test_Driven-green?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-Behavior_Driven-green?style=for-the-badge)
 
 #### 🗄️ Bases de Datos
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -103,17 +99,7 @@ Implementación y despliegue de un sistema CRM integral diseñado para centraliz
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reynaldoovr&show_icons=true&theme=city_lights&hide_border=true&count_private=true" alt="Reynaldo's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldoovr&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📬 Contacta conmigo
 
-* [LinkedIn](https://www.linkedin.com/in/reynaldoventocilla/)
+* [LinkedIn](https://www.linkedin.com/in/reynaldo-ventocilla-ramos-1b2623110/)
 * [arilsonvr5@gmail.com](mailto:arilsonvr5@gmail.com)
